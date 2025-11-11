@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI Churn Prediction System",
+  "description": "A dashboard that uses an agentic AI to predict customer churn risk, identify key factors, and recommend personalized retention actions.",
+  "requestFramePermissions": []
+}
